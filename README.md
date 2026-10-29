@@ -17,6 +17,9 @@
   <a href="https://github.com/krishyadav25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/krish_25k/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
@@ -118,6 +121,10 @@ Looking to collaborate on AI/ML and full-stack projects, discuss research, or ju
 &nbsp;
 <a href="https://github.com/krishyadav25">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/krish_25k/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <br/><br/>
