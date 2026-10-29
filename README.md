@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Computer+Science+%40+UPES+Dehradun;AI+%26+Machine+Learning+Engineer;IEEE-Published+Author;DSA+%26+Problem+Solving;Building+Solutions+with+Real-World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Computer+Science+%40+UPES+Dehradun;AI+%26+Machine+Learning+Engineer;DSA+%26+Problem+Solving;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -34,7 +34,6 @@ passions: [ "Deep Learning", "F1", "Gaming", "Anime" ]
 
 - 🤖 Currently deep in **AI & Machine Learning**, building projects with real-world impact
 - 🧩 Practicing DSA on **LeetCode** and **GeeksforGeeks**
-- 📄 **IEEE-published** author
 - 🛠️ Comfortable across the stack — from model training to shipping a working API
 - 📫 Open to collaborating on AI/ML and full-stack projects — reach out on [LinkedIn](https://www.linkedin.com/in/krish-yadav-cse/)!
 
@@ -122,6 +121,14 @@ Looking to collaborate on AI/ML and full-stack projects, discuss research, or ju
 </a>
 
 <br/><br/>
+
+> *"Hard work is worthless for those that don’t believe in themselves."*  
+> — **Naruto Uzumaki (*Naruto*)**
+
+> *"If the king does not move, then his subjects will not follow."*  
+> — **Lelouch vi Britannia (*Code Geass*)**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%" alt="Footer" />
 
